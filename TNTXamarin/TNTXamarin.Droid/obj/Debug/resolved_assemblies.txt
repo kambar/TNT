@@ -41,3 +41,5 @@ C:\Users\z6jzs\Documents\Visual Studio 2015\Projects\TNT2\TNT\TNTXamarin\TNTXama
 C:\Users\z6jzs\Documents\Visual Studio 2015\Projects\TNT2\TNT\TNTXamarin\TNTXamarin.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
 C:\Users\z6jzs\Documents\Visual Studio 2015\Projects\TNT2\TNT\TNTXamarin\TNTXamarin.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 C:\Users\z6jzs\Documents\Visual Studio 2015\Projects\TNT2\TNT\TNTXamarin\TNTXamarin.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+C:\Users\z6jzs\Documents\Visual Studio 2015\Projects\TNT2\TNT\TNTXamarin\TNTXamarin.Droid\obj\Debug\android\assets\System.Net.Requests.dll
+C:\Users\z6jzs\Documents\Visual Studio 2015\Projects\TNT2\TNT\TNTXamarin\TNTXamarin.Droid\obj\Debug\android\assets\System.Net.Primitives.dll

@@ -1,0 +1,2 @@
+C:\Users\z6jzs\Documents\Visual Studio 2015\Projects\TNT2\TNT\TNTXamarin\TNTXamarin.WinPhone\TNTXamarin.WinPhone.csproj;neutral
+C:\Users\z6jzs\Documents\Visual Studio 2015\Projects\TNT2\TNT\TNTXamarin\TNTXamarin\TNTXamarin.csproj;neutral
